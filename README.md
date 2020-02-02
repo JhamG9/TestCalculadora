@@ -1,6 +1,6 @@
 ## Testeo de funciones en entornos JavaScript
 
-Para testea las pruebas en sus maquinas recuerden colocar ```npm install``` en su consola para descargar las librerias y frameworks
+Para probar las pruebas en sus máquinas recuerden colocar ```npm install``` en su consola para descargar las librerías y frameworks
 
 Una vez instalado npm,  coloca ```npm test``` la cual retornara algo parecido a esto.
 
