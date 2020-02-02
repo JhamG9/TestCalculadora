@@ -11,7 +11,7 @@ Una vez instalado npm,  coloca ```npm test``` la cual retornara algo parecido a 
     √ Suma: 3 + 5 = 8\
     √ Resta: 5 - 3 = 2\
     √ División 8 / 2 = 4\
-    √ Multiplicación 4 X 5 = 20\
+    √ Multiplicación 4 X 5 = 20
 
   4 passing (13ms)
 
