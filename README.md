@@ -2,12 +2,11 @@
 
 Para testea las pruebas en sus maquinas recuerden colocar ```npm install``` en su consola para descargar las librerias y frameworks
 
-Una vez instalado npm,  coloca ```npm test``` En la cual retornara algo parecido a esto.
+Una vez instalado npm,  coloca ```npm test``` la cual retornara algo parecido a esto.
 
-
-> test3@1.0.0 test C:\Users\jhamp\Desktop\node\testCalculadora
-> mocha --reporter spec
-
+---
+ test3@1.0.0 test C:\Users\jhamp\Desktop\node\testCalculadora
+ mocha --reporter spec
   Test para calculadora
     √ Suma: 3 + 5 = 8
     √ Resta: 5 - 3 = 2
